@@ -152,6 +152,3 @@ In any page, before calling the connect() or process() method use the change() p
 echo Facebook::change($newAppId, $newAppSecret, $optionalNewAppRedirectUrl)->connect()->getLoginUrl();
 ```
 
-# Thanks #
-
-Thank God for the knowledge to write all this.
